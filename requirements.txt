@@ -1,0 +1,6 @@
+requests
+google-cloud-secretmanager
+boxsdk
+pyyaml
+google-auth
+google-cloud-firestore
