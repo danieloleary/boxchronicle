@@ -1,3 +1,9 @@
+---
+title: BoxChronicle Project
+description: "Box to Chronicle integration"
+keywords: [box, chronicle, integration, python, nodejs, monitoring]
+---
+
 # BoxChronicle Project
 
 This repo contains a small integration for forwarding Box events to [Google Chronicle](https://cloud.google.com/chronicle). A minimal Node.js frontend is provided for simple local testing.
